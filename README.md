@@ -10,7 +10,9 @@
 
 ## 🌍 Overview
 
-**Family Travel Tracker** is a full-stack web application that allows multiple users to track and visualize the countries they have visited.
+**Family Travel Tracker** is a full-stack web application that allows multiple users to track and visualize the countries they have visited Family Travel Tracker is a full-stack web application designed to help multiple users track, manage, and visualize the countries they have visited across the world.
+
+The system allows each family member to maintain their own travel history while sharing a common platform. It demonstrates how real-world applications handle multi-user data, database relationships, and dynamic UI updates..
 
 ---
 
@@ -73,13 +75,7 @@ Family-Travel-Tracker/
 
 ---
 
-## 🎥 Demo Video
 
-👉 Watch the project in action:
-
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-> 📌 Replace `YOUR_VIDEO_ID` with your YouTube video ID
 
 ---
 
