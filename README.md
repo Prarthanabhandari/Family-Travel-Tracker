@@ -86,19 +86,14 @@ Family-Travel-Tracker/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./images/home.png)
 
 ### 👤 User Selection
-![User Selection](./screenshots/user.png)
+![User Selection](./images/add.png)
 
-### 🌎 Add Country
-![Add Country](./screenshots/add-country.png)
-
-### 🗺️ Map View
-![Map View](./screenshots/map.png)
 
 ### 📊 Statistics
-![Stats](./screenshots/stats.png)
+![Stats](./images/input.mp4)
 
 ---
 
