@@ -12,11 +12,6 @@
 
 **Family Travel Tracker** is a full-stack web application that allows multiple users to track and visualize the countries they have visited.
 
-Each user can:
-- Add visited countries  
-- View their travel map  
-- Track total visited locations  
-
 ---
 
 ## 🎯 Purpose of This Project
@@ -45,17 +40,16 @@ This project was created to:
 
 ## 🛠️ Tech Stack
 
-| Technology | Usage |
-|----------|------|
-| Node.js | Backend runtime |
-| Express.js | Server framework |
-| PostgreSQL | Database |
-| EJS | Templating engine |
-| HTML/CSS | Frontend UI |
+| Technology   | Usage              |
+|-------------|-------------------|
+| Node.js     | Backend runtime   |
+| Express.js  | Server framework  |
+| PostgreSQL  | Database          |
+| EJS         | Templating engine |
+| HTML/CSS    | Frontend UI       |
 
 ---
 
-## 📂 Project Structure
 ## 📂 Project Structure
 
 ```bash
@@ -77,13 +71,6 @@ Family-Travel-Tracker/
 └── .gitignore
 ```
 
-
----
-# 🌍 Family Travel Tracker
-
-A simple and interactive web application that allows users to track the countries they have visited.  
-This project is built using **Node.js, Express, PostgreSQL, and EJS**.
-
 ---
 
 ## 🎥 Demo Video
@@ -92,8 +79,7 @@ This project is built using **Node.js, Express, PostgreSQL, and EJS**.
 
 [![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-> 📌 Replace `YOUR_VIDEO_ID` with your YouTube video ID  
-> Example: https://www.youtube.com/watch?v=abc123 → use `abc123`
+> 📌 Replace `YOUR_VIDEO_ID` with your YouTube video ID
 
 ---
 
@@ -111,16 +97,14 @@ This project is built using **Node.js, Express, PostgreSQL, and EJS**.
 ### 🗺️ Map View
 ![Map View](./screenshots/map.png)
 
-### 📊 Visited Countries Count
+### 📊 Statistics
 ![Stats](./screenshots/stats.png)
-
-> 📌 Create a folder named `screenshots` in your project and add images there.
 
 ---
 
 ## 🚀 Setup Instructions
 
-### 1️⃣ Clone the Repository
+### 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/Prarthanabhandari/Family-Travel-Tracker.git
@@ -141,7 +125,7 @@ npm install -g nodemon
 
 ### 3️⃣ Configure Project
 
-Add the following line in your `package.json`:
+Add this in `package.json`:
 
 ```json
 "type": "module"
@@ -219,31 +203,10 @@ http://localhost:3000
 
 - 👤 Select a user  
 - 🌎 Add a country name  
-- 💾 Country gets stored in the database  
+- 💾 Data stored in PostgreSQL  
 - 🗺️ Map updates dynamically  
-- 📊 Total visited countries count updates  
+- 📊 Country count updates  
 - 🔄 Switch between users  
-
----
-
-## 🛠️ Tech Stack
-
-- Node.js  
-- Express.js  
-- PostgreSQL  
-- EJS  
-- HTML, CSS  
-
----
-
-## 📌 Project Purpose
-
-This project helps in:
-
-- Learning backend development with Node.js  
-- Understanding PostgreSQL database integration  
-- Practicing dynamic data rendering using EJS  
-- Managing user-based data  
 
 ---
 
