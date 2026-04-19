@@ -87,6 +87,9 @@ Family-Travel-Tracker/
 ### 👤 User Selection
 ![User Selection](./images/add.png)
 
+![User Selection](./images/add1.png)
+
+![User Selection](./images/add2.png)
 
 ### 📊 Statistics
 ![Stats](./images/input.mp4)
